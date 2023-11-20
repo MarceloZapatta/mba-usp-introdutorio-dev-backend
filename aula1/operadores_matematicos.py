@@ -1,0 +1,6 @@
+print('A soma é 1 + 1 =', 1+1)
+print('A soma é 3 - 1 =', 3-1)
+print('A soma é 3 * 2 =', 3*2)
+print('A soma é 3 / 2 =', 3/2)
+print('A soma é 3 % 2 =', 3%2)
+print('A soma é 3 elevado 2 =', 3**2)
